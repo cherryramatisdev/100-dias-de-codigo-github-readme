@@ -14,6 +14,8 @@ Simplesmente inclua esse link com imagem no seu README:
 </a>
 ```
 
+> Importante! O username em questão precisa ser referente ao do seu **twitter**
+
 ## Como contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas as contribuições
